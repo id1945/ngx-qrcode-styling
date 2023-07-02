@@ -1,0 +1,10 @@
+<div id="FE_007" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_007_svg" data-bbox="0 0 100 172.67" viewBox="0 0 100 172.67" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g xmlns="http://www.w3.org/2000/svg">
+      <path class="frame-container" fill="#c01f42" d="M0 167V5.67A5.67 5.67 0 0 1 5.67 0h88.66A5.67 5.67 0 0 1 100 5.67V167a5.67 5.67 0 0 1-5.67 5.67H5.67A5.67 5.67 0 0 1 0 167z" data-color="1" />
+      <path class="frame-content" fill="#ffffff" d="M95.42 80.05v85.13a2.83 2.83 0 0 1-2.83 2.83H7.46a2.83 2.83 0 0 1-2.83-2.83V80.05a2.83 2.83 0 0 1 2.83-2.83h85.13a2.83 2.83 0 0 1 2.83 2.83z" data-color="2" />
+      <text class="frame-text" />
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

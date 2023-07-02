@@ -1,0 +1,17 @@
+<div id="FE_046" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_046_svg" xmlns="http://www.w3.org/2000/svg" width="1001" height="1000" viewBox="0 0 1001 1000" fill="none">
+    <path class="frame-content" d="M318.473 871.007L316.612 310.494C316.534 228.893 250.323 162.814 168.721 162.893C165.655 162.911 162.591 163.009 159.529 163.188C79.3991 168.244 17.0039 234.78 17.1007 315.07L16.9739 386.507C17.0221 413.768 39.1605 435.819 66.3805 435.772C67.3897 435.779 68.3768 435.728 69.4042 435.674C96.0444 433.911 116.765 411.815 116.815 385.117L116.734 313.484C116.785 286.785 137.505 264.69 164.145 262.926C191.352 261.225 214.779 281.902 216.478 309.069C216.551 310.076 216.563 311.064 216.576 312.093L217.993 877.665C217.774 903.501 238.57 924.606 264.386 924.806C265.658 924.826 266.887 924.766 268.135 924.686C295.954 922.541 317.532 899.53 317.887 871.631L318.473 871.007Z" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M219.761 171.983L191.617 269.545" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M317.113 496.321L217.242 521.928" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M318.295 795.739L218.424 821.346" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M218.035 722.078L317.711 696.68" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M217.656 621.982L317.527 596.376" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M216.906 421.873L316.777 396.266" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M314.953 296.464L216.682 321.615" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M134.065 275.381L103.477 177.486" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <path class="frame-container" d="M16.9551 311.047L116.495 325.405" stroke="#333333" stroke-width="24.2403" stroke-linecap="round" stroke-linejoin="round" />
+    <rect class="frame-container" x="279.791" y="249.512" width="720.399" height="720.399" rx="22.2201" fill="#333333" />
+    <rect class="frame-content" x="310.039" y="279.732" width="658.96" height="658.96" rx="13.1792" fill="white" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

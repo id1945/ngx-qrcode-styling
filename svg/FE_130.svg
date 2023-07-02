@@ -1,0 +1,12 @@
+<div id="FE_130" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_130_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" fill="none" x="500" y="360">
+    <rect class="frame-container" y="0" width="500" height="720" rx="20" fill="#333333" id="svg_1" x="0"></rect>
+    <rect class="frame-container" x="500" y="0" width="500" height="720" rx="20" fill="#333333" style="pointer-events:inherit" id="svg_2"></rect>
+    <rect class="frame-content" x="524" y="134" width="451" height="451" rx="6.57184" fill="white" style="pointer-events:inherit" id="svg_3"></rect>
+    <line class="frame-content" x1="73" y1="292.5" x2="426" y2="292.5" stroke="white" stroke-width="3" style="pointer-events:inherit" id="svg_10"></line>
+    <line class="frame-content" x1="73" y1="391.5" x2="426" y2="391.5" stroke="white" stroke-width="3" style="pointer-events:inherit" id="svg_11"></line>
+    <line class="frame-content" x1="73" y1="496.5" x2="426" y2="496.5" stroke="white" stroke-width="3" style="pointer-events:inherit" id="svg_12"></line>
+    <rect class="frame-content" x="496" y="0" width="8" height="720" fill="white" style="pointer-events:inherit" id="svg_16"></rect>
+    <g class="addsvg"></g>
+  </svg>
+</div>

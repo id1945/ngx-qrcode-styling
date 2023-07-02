@@ -1,0 +1,12 @@
+<div id="FE_069" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_069_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="1000" viewBox="0 0 550 1000" fill="none">
+    <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M35.0044 172C18.695 172 6.10887 186.349 8.2347 202.519L41.8216 458H275.429H509.037L542.624 202.519C544.75 186.349 532.164 172 515.854 172H275.429H35.0044Z" fill="#333333" />
+    <path class="frame-content" fill-rule="evenodd" clip-rule="evenodd" d="M54.8739 187.965C38.5029 187.965 25.8987 202.417 28.1246 218.636L58.7842 442.033H275.429H275.429H492.074L522.734 218.636C524.96 202.417 512.355 187.965 495.984 187.965H275.429H275.429H54.8739Z" fill="#333333" />
+    <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M35.0044 749C18.695 749 6.10887 734.651 8.2347 718.481L41.8216 463H275.429H509.037L542.624 718.481C544.75 734.651 532.164 749 515.854 749H275.429H35.0044Z" fill="#333333" />
+    <path class="frame-content" fill-rule="evenodd" clip-rule="evenodd" d="M54.8739 733.068C38.5029 733.068 25.8987 718.616 28.1246 702.397L58.7842 479H275.429H275.429H492.074L522.734 702.397C524.96 718.616 512.355 733.068 495.984 733.068H275.429H275.429H54.8739Z" fill="#333333" />
+    <rect class="frame-container" x="95.5" y="435.5" width="16" height="49" rx="8" fill="#333333" stroke="white" stroke-width="5" />
+    <rect class="frame-container" x="266.5" y="435.5" width="16" height="49" rx="8" fill="#333333" stroke="white" stroke-width="5" />
+    <rect class="frame-container" x="437.5" y="435.5" width="16" height="49" rx="8" fill="#333333" stroke="white" stroke-width="5" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

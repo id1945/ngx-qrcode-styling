@@ -1,0 +1,13 @@
+<div id="FE_079" data-width="0.87" data-left="0.06" data-top="0.06">
+    <svg id="FE_079_svg" width="550" height="1000" viewBox="0 0 550 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_237:507)">
+            <rect class="frame-container" width="550" height="500" fill="#333333"/>
+            <rect class="frame-container" y="500" width="550" height="500" fill="#333333"/>
+            <circle class="frame-content" cx="275" cy="500" r="296" fill="white"/>
+            <path class="frame-content" d="M136 881.4L98.2798 930L98.2798 903C33.8698 903 26.4389 850.739 28.2279 822C30.933 836.499 32.1885 859.8 98.2798 859.8L98.2798 832.8L136 881.4Z" stroke="white" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round"/>
+            <path class="frame-content" d="M412 118.6L449.72 70V97C514.13 97 521.561 149.261 519.772 178C517.067 163.501 515.811 140.2 449.72 140.2V167.2L412 118.6Z" stroke="white" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round"/>
+            <rect class="frame-content" x="67" y="292" width="415" height="415" rx="8.3" fill="white"/>
+        </g>
+        <g class="addsvg"></g>
+    </svg>
+</div>

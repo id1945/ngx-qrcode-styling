@@ -1,0 +1,12 @@
+<div id="FE_008" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_008_svg" data-bbox="0 0 100 148.71" viewBox="0 0 100 148.72" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g xmlns="http://www.w3.org/2000/svg">
+      <path class="frame-container" d="M93.94 0H6.06A6.08 6.08 0 0 0 0 6.06v87.88A6.08 6.08 0 0 0 6.06 100h26.16l16.19 16.19a2.54 2.54 0 0 0 3.59 0L68.19 100h25.75a6.08 6.08 0 0 0 6.06-6.06V6.06A6.08 6.08 0 0 0 93.94 0Z" fill-rule="evenodd" fill="#395796" data-color="1" />
+      <path d="m32.22 93.59 16.19 16.19a2.54 2.54 0 0 0 3.59 0l16.19-16.19Z" fill-rule="evenodd" fill="#ffffff" data-color="2" />
+      <path class="frame-container" fill="#395796" d="M100 125.05v18.19a5.47 5.47 0 0 1-5.47 5.47H5.47A5.47 5.47 0 0 1 0 143.24v-18.19a5.47 5.47 0 0 1 5.47-5.47h89.06a5.47 5.47 0 0 1 5.47 5.47z" data-color="1" />
+      <path class="frame-content" fill="#ffffff" d="M95.4 7.44v85.13a2.83 2.83 0 0 1-2.83 2.83H7.44a2.83 2.83 0 0 1-2.83-2.83V7.44a2.83 2.83 0 0 1 2.83-2.83h85.13a2.83 2.83 0 0 1 2.83 2.83z" data-color="2" />
+      <text class="frame-text" />
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

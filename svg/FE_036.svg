@@ -1,0 +1,22 @@
+<div id="FE_036" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_036_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 390.2 543.4" xml:space="preserve" style="shape-rendering: auto; enable-background: new 0 0 390.2 543.4">
+    <style type="text/css">
+      <![CDATA[
+      .st0 {
+        fill: #FFFFFF;
+      }
+  
+      .st1 {
+        opacity: 0.35;
+        fill: #FFFFFF;
+        enable-background: new;
+      }
+      ]]>
+    </style>
+    <path class="frame-container" d="M370.7,58.8h-92.3V46.6c0-8.9-7.1-16.1-16.1-16.1h-36.9c0-16.9-13.7-30.6-30.6-30.6s-30.6,13.7-30.6,30.6h-36.9c-8.9,0-16.1,7.1-16.1,16.1v12.2h-92C8.7,58.8,0.1,67.5,0,77.9v445.8c0,10.6,8.7,19.1,19.1,19.1h351.5c10.6,0,19.1-8.7,19.1-19.1V77.9C389.8,67.3,381.2,58.8,370.7,58.8z" />
+    <circle class="st0" cx="195" cy="30.7" r="14.1" />
+    <path class="frame-content st0" d="M375.1,423.6c0,5.7-4.6,10.3-10.3,10.3H25.1c-5.7,0-10.3-4.6-10.3-10.3V83.8c0-5.7,4.6-10.3,10.3-10.3h339.7c5.7,0,10.3,4.6,10.3,10.3V423.6z" />
+    <path class="frame-container st1" d="M111.3,73.5V58.8H74.6L111.3,73.5z M315.1,58.8h-36.7v14.7L315.1,58.8z" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

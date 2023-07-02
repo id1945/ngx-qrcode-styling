@@ -1,0 +1,41 @@
+<div id="FE_070" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_070_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="506" height="972" viewBox="0 0 506 972" fill="none" x="591" y="486">
+    <g clip-path="url(#clip0_237:356)" style="pointer-events:inherit" id="svg_1">
+      <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M199.5,578.001L199.982,578.001C199.822,578 199.661,578 199.5,578.001zM275,578.001L199.982,578.001C269.007,578.499 270.436,793.339 243,939.001L275,939.001L307,939.001C279.564,793.339 280.993,578.499 350.018,578.001L350.5,578.001C350.339,578 350.178,578 350.018,578.001L275,578.001z" fill="#333333" style="pointer-events:inherit" id="svg_2"></path>
+      <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M215.208,939C205.767,939 197.012,943.932 192.118,952.006L183.681,965.927C182.066,968.593 183.985,972 187.102,972L275,972L362.899,972C366.016,972 367.935,968.593 366.32,965.927L357.883,952.006C352.989,943.932 344.234,939 334.792,939L275,939L215.208,939z" fill="#333333" style="pointer-events:inherit" id="svg_3"></path>
+      <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M275,352L45,352L45,428C45,510.843 112.157,578 195,578L275,578L355,578C437.843,578 505,510.843 505,428L505,352L275,352z" fill="#333333" style="pointer-events:inherit" id="svg_4"></path>
+      <mask id="path-4-inside-1_237:356" fill="white" style="pointer-events:inherit">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M66.3611,287C58.625,287 51.9786,292.533 50.6068,300.146C47.4513,317.658 45.4051,330.994 45,352L275,352L505,352C504.595,330.994 502.549,317.658 499.393,300.146C498.021,292.533 491.375,287 483.639,287L275,287L66.3611,287z" style="pointer-events:inherit" id="svg_5"></path>
+      </mask>
+      <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M66.3611,287C58.625,287 51.9786,292.533 50.6068,300.146C47.4513,317.658 45.4051,330.994 45,352L275,352L505,352C504.595,330.994 502.549,317.658 499.393,300.146C498.021,292.533 491.375,287 483.639,287L275,287L66.3611,287z" fill="#333333" style="pointer-events:inherit" id="svg_6"></path>
+      <path class="frame-container" d="M50.6068,300.146L51.5909,300.324L50.6068,300.146zM45,352L44.0002,351.981L43.9805,353L45,353L45,352zM505,352L505,353L506.019,353L506,351.981L505,352zM499.393,300.146L498.409,300.324L498.409,300.324L499.393,300.146zM51.5909,300.324C52.8766,293.188 59.1068,288 66.3611,288L66.3611,286C58.1432,286 51.0806,291.877 49.6226,299.969L51.5909,300.324zM45.9998,352.019C46.4035,331.087 48.4401,317.81 51.5909,300.324L49.6226,299.969C46.4625,317.507 44.4067,330.9 44.0002,351.981L45.9998,352.019zM275,351L45,351L45,353L275,353L275,351zM275,353L505,353L505,351L275,351L275,353zM506,351.981C505.593,330.9 503.537,317.507 500.377,299.969L498.409,300.324C501.56,317.81 503.597,331.087 504,352.019L506,351.981zM500.377,299.969C498.919,291.877 491.857,286 483.639,286L483.639,288C490.893,288 497.123,293.188 498.409,300.324L500.377,299.969zM483.639,286L275,286L275,288L483.639,288L483.639,286zM66.3611,288L275,288L275,286L66.3611,286L66.3611,288z" fill="#333333" mask="url(#path-4-inside-1_237:356)" style="pointer-events:inherit" id="svg_7"></path>
+      <mask id="path-6-inside-2_237:356" fill="white" style="pointer-events:inherit">
+        <path d="M27.8249,355.175C19.0033,346.354 12.0056,335.881 7.23144,324.355C2.45724,312.829 0,300.476 0,288L95,288L27.8249,355.175z" style="pointer-events:inherit" id="svg_8"></path>
+      </mask>
+      <path class="frame-container" d="M27.8249,355.175C19.0033,346.354 12.0056,335.881 7.23144,324.355C2.45724,312.829 0,300.476 0,288L95,288L27.8249,355.175z" fill="#333333" stroke="white" stroke-width="2" mask="url(#path-6-inside-2_237:356)" style="pointer-events:inherit" id="svg_9"></path>
+      <mask id="path-7-inside-3_237:356" fill="white" style="pointer-events:inherit">
+        <path d="M0,288C0,262.804 10.0089,238.641 27.8249,220.825L95,288L0,288z" style="pointer-events:inherit" id="svg_10"></path>
+      </mask>
+      <path class="frame-container" d="M0,288C0,262.804 10.0089,238.641 27.8249,220.825L95,288L0,288z" fill="#333333" stroke="white" stroke-width="2" mask="url(#path-7-inside-3_237:356)" style="pointer-events:inherit" id="svg_11"></path>
+      <mask id="path-8-inside-4_237:356" fill="white" style="pointer-events:inherit">
+        <path d="M27.8249,220.825C36.6464,212.003 47.1191,205.006 58.6451,200.231C70.171,195.457 82.5244,193 95,193L95,288L27.8249,220.825z" style="pointer-events:inherit" id="svg_12"></path>
+      </mask>
+      <path class="frame-container" d="M27.8249,220.825C36.6464,212.003 47.1191,205.006 58.6451,200.231C70.171,195.457 82.5244,193 95,193L95,288L27.8249,220.825z" fill="#333333" stroke="white" stroke-width="2" mask="url(#path-8-inside-4_237:356)" style="pointer-events:inherit" id="svg_13"></path>
+      <mask id="path-9-inside-5_237:356" fill="white" style="pointer-events:inherit">
+        <path d="M95,193C107.476,193 119.829,195.457 131.355,200.231C142.881,205.006 153.354,212.003 162.175,220.825L95,288L95,193z" style="pointer-events:inherit" id="svg_14"></path>
+      </mask>
+      <path class="frame-container" d="M95,193C107.476,193 119.829,195.457 131.355,200.231C142.881,205.006 153.354,212.003 162.175,220.825L95,288L95,193z" fill="#333333" stroke="white" stroke-width="2" mask="url(#path-9-inside-5_237:356)" style="pointer-events:inherit" id="svg_15"></path>
+      <mask id="path-10-inside-6_237:356" fill="white" style="pointer-events:inherit">
+        <path d="M162.175,220.825C170.997,229.646 177.994,240.119 182.769,251.645C187.543,263.171 190,275.524 190,288L95,288L162.175,220.825z" style="pointer-events:inherit" id="svg_16"></path>
+      </mask>
+      <path class="frame-container" d="M162.175,220.825C170.997,229.646 177.994,240.119 182.769,251.645C187.543,263.171 190,275.524 190,288L95,288L162.175,220.825z" fill="#333333" stroke="white" stroke-width="2" mask="url(#path-10-inside-6_237:356)" style="pointer-events:inherit" id="svg_17"></path>
+      <mask id="path-11-inside-7_237:356" fill="white" style="pointer-events:inherit">
+        <path d="M95,383C69.8044,383 45.6408,372.991 27.8249,355.175L95,288L95,383z" style="pointer-events:inherit" id="svg_18"></path>
+      </mask>
+      <path class="frame-container" d="M95,383C69.8044,383 45.6408,372.991 27.8249,355.175L95,288L95,383z" fill="#333333" stroke="white" stroke-width="2" mask="url(#path-11-inside-7_237:356)" style="pointer-events:inherit" id="svg_19"></path>
+      <rect class="frame-content" x="172" y="362" width="205" height="205" rx="4.1" fill="white" style="pointer-events:inherit" id="svg_20"></rect>
+    </g>
+    <g class="addsvg" style="pointer-events:inherit" id="svg_21"></g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

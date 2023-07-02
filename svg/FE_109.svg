@@ -1,0 +1,8 @@
+<div id="FE_109" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_109_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect class="frame-container" x="1" y="-1" width="998" height="1002" fill="#333333"/>
+    <circle class="frame-content" cx="517" cy="458" r="367" fill="white"/>
+    <circle class="frame-content" cx="499.5" cy="438.5" r="394" stroke="white" stroke-width="15"/>
+    <g class="addsvg"></g>
+  </svg>
+</div>

@@ -1,0 +1,12 @@
+<div id="FE_160" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_160_svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" xml:space="preserve" width="666.66669" height="666.66669" viewBox="0 0 666.66669 666.66669" sodipodi:docname="general-qr-code-frame-32.eps">
+    <g id="g10" inkscape:groupmode="layer" inkscape:label="ink_ext_XXXXXX" transform="matrix(1.3333333,0,0,-1.3333333,0,666.66667)">
+      <g id="g12" transform="scale(0.1)">
+        <path class="frame-content" d="M 3771.36,1575.53 H 1451.09 c -150.43,0 -272.36,121.94 -272.36,272.37 v 2544.63 c 0,150.42 121.93,272.36 272.36,272.36 h 2320.27 c 150.43,0 272.37,-121.94 272.37,-272.36 V 1847.9 c 0,-150.43 -121.94,-272.37 -272.37,-272.37" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path14" />
+        <path class="frame-content" d="M 3771.36,1575.53 H 1451.09 c -150.43,0 -272.36,121.94 -272.36,272.37 v 2544.63 c 0,150.42 121.93,272.36 272.36,272.36 h 2320.27 c 150.43,0 272.37,-121.94 272.37,-272.36 V 1847.9 c 0,-150.43 -121.94,-272.37 -272.37,-272.37 z" style="fill:none;stroke:#2a2a2b;stroke-width:60.83;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path16" />
+        <path class="frame-container" d="m 3521.66,1327.56 c 0,-502.81 -407.62,-910.431 -910.43,-910.431 -502.82,0 -910.44,407.621 -910.44,910.431 0,502.82 407.62,910.44 910.44,910.44 502.81,0 910.43,-407.62 910.43,-910.44" style="fill:#2a2a2b;fill-opacity:1;fill-rule:nonzero;stroke:none" id="path56" />
+      </g>
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

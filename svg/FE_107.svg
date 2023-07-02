@@ -1,0 +1,8 @@
+<div id="FE_107" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_107_svg" xmlns="http://www.w3.org/2000/svg" width="734" height="998" viewBox="0 0 734 998" fill="none" x="477" y="499">
+    <rect class="frame-content" x="34" y="33" width="668" height="668" rx="12" fill="white" style="pointer-events:inherit" id="svg_1"></rect>
+    <path class="frame-container" d="M717,95.5 L717,27 C717,21.4772 712.523,17 707,17 L27,17 C21.477000000000004,17 17,21.4771 17,27 L17,707 C17,712.523 21.477000000000004,717 27,717 L707,717 C712.523,717 717,712.523 717,707 L717,308 " stroke="#333333" stroke-width="34" stroke-linecap="round" style="pointer-events:inherit" id="svg_8"></path>
+    <path class="frame-container" d="M95.5,767 L27,767 C21.477000000000004,767 17,771.477 17,777 L17,971 C17,976.523 21.477000000000004,981 27,981 L707,981 C712.523,981 717,976.523 717,971 L717,777 C717,771.477 712.523,767 707,767 L308,767 " stroke="#333333" stroke-width="34" stroke-linecap="round" style="pointer-events:inherit" id="svg_9"></path>
+    <g class="addsvg"></g>
+  </svg>
+</div>

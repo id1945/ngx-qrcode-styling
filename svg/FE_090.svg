@@ -1,0 +1,9 @@
+<div id="FE_090" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_090_svg" xmlns="http://www.w3.org/2000/svg" width="780" height="1000" viewBox="0 0 780 1000" fill="none" x="454" y="500">
+    <g clip-path="url(#clip0_279_235)" style="pointer-events:inherit" id="svg_2">
+      <rect class="frame-container" x="0" y="0" width="780" height="1000" rx="71" fill="#333333" style="pointer-events:inherit" id="svg_3"></rect>
+      <path class="frame-content" fill-rule="evenodd" clip-rule="evenodd" d="M102,31 C62.78800000000001,31 31,62.7878 31,102 L31,676 C31,715.212 62.78800000000001,747 102,747 L333.579,747 L394.808,808.229 C399.884,813.306 408.116,813.306 413.192,808.229 L474.42100000000005,747 L678,747 C717.212,747 749,715.212 749,676 L749,102 C749,62.7878 717.212,31 678,31 L102,31 z" fill="white" style="pointer-events:inherit" id="svg_4"></path>
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

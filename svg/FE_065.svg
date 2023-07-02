@@ -1,0 +1,11 @@
+<div id="FE_065" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_065_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <mask id="path-1-inside-1_271:446" fill="white">
+      <rect x="136" y="30" width="727" height="729" rx="25" />
+    </mask>
+    <rect class="frame-container" x="136" y="30" width="727" height="729" rx="25" stroke="#333333" stroke-width="68" mask="url(#path-1-inside-1_271:446)" />
+    <rect class="frame-container" x="149" y="808" width="701" height="169" rx="1" stroke="#333333" stroke-width="19" stroke-linecap="round" stroke-dasharray="0.1 23" />
+    <rect class="frame-content" x="250" y="144" width="500" height="500" rx="10.9555" fill="white" />
+    <g class="addsvg"></g>
+  </svg>
+</div>

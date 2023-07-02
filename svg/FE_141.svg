@@ -1,0 +1,16 @@
+<div id="FE_141" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_141_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <g clip-path="url(#clip0_288_1375)">
+      <rect class="frame-content" x="100.91" width="798.265" height="798.265" rx="10.846" fill="white" stroke="#333333" stroke-width="28.1996" mask="url(#path-1-inside-1_288_1375)" />
+      <rect class="frame-content" x="99.8242" y="830.803" width="798.265" height="169.197" rx="10.846" fill="white" stroke="#333333" stroke-width="26.0304" mask="url(#path-2-inside-2_288_1375)" />
+      <mask class="frame-content" id="path-2-inside-2_288_1375" fill="white">
+        <rect x="99.8242" y="830.803" width="798.265" height="169.197" rx="10.846" />
+      </mask>
+      <mask class="frame-content" id="path-1-inside-1_288_1375" fill="white">
+        <rect x="100.91" width="798.265" height="798.265" rx="10.846" />
+      </mask>
+      <path class="frame-container" d="M811.245 914.075L794.589 930.731L766.861 914.143C766.696 914.05 766.542 913.939 766.402 913.813C764.308 911.844 765.137 908.198 768.005 907.19L845.301 880.019L818.131 957.316C817.136 960.153 813.558 960.992 811.575 958.986C811.402 958.802 811.257 958.595 811.144 958.369L801.632 940.592" stroke="#333333" stroke-width="7.96864" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

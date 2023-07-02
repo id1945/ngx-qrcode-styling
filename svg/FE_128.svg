@@ -1,0 +1,19 @@
+<div id="FE_128" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_128_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <g clip-path="url(#clip0_286_873)">
+      <rect class="frame-container" x="106.422" width="786.156" height="737.999" rx="3" fill="#333333" />
+      <path class="frame-container" d="M1 774H637L576.258 851.5L637 929H1L59.6998 851.5L1 774Z" fill="#333333" />
+      <path class="frame-content" d="M644.504 776.5H994.187L942.488 850.063L941.478 851.5L942.488 852.937L994.187 926.5H644.504L589.108 851.5L644.504 776.5Z" fill="white" stroke="#333333" stroke-width="5" />
+      <rect class="frame-content" x="188.289" y="57.7891" width="624.098" height="624.098" rx="3" fill="white" />
+      <path class="frame-container" d="M849 908H737V810H751V894H835V810H849V908Z" fill="#333333" />
+      <path class="frame-container" d="M772 838H758V852H772V838Z" fill="#333333" />
+      <path class="frame-container" d="M800 838.027H786V852.027H800V838.027Z" fill="#333333" />
+      <path class="frame-container" d="M828 838H814V852H828V838Z" fill="#333333" />
+      <path class="frame-container" d="M772 866H758V880H772V866Z" fill="#333333" />
+      <path class="frame-container" d="M800 866H786V880H800V866Z" fill="#333333" />
+      <path class="frame-container" d="M814 880V866H828L814 880Z" fill="#333333" />
+      <path class="frame-container" d="M765 817V803C765 799.132 768.132 796 772 796C775.868 796 779 799.132 779 803V817C779 820.868 775.868 824 772 824C768.132 824 765 820.868 765 817ZM807 817V803C807 799.132 810.132 796 814 796C817.868 796 821 799.132 821 803V817C821 820.868 817.868 824 814 824C810.132 824 807 820.868 807 817Z" fill="#333333" />
+    </g>
+    <g class="addsvg"></g>
+  </svg>
+</div>

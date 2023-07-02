@@ -1,0 +1,9 @@
+<div id="FE_123" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_123_svg" xmlns="http://www.w3.org/2000/svg" width="960" height="990" viewBox="0 0 960 990" fill="none" x="480" y="495">
+    <path class="frame-container" d="M899,231.489 L899,28 C899,26.3431 897.657,25 896,25 L28,25 C26.343100000000007,25 25,26.3432 25,28 L25,896 C25,897.657 26.343199999999996,899 28,899 L896,899 C897.657,899 899,897.657 899,896 L899,692.511 " stroke="#333333" stroke-width="50" stroke-linecap="round" style="pointer-events:inherit" id="svg_1"></path>
+    <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M941,344 L926,344 L926,348 C926,350.209 924.209,352 922,352 L874,352 C871.791,352 870,350.209 870,348 L870,344 L855,344 C848.925,344 844,348.925 844,355 L844,569 C844,575.075 848.925,580 855,580 L941,580 C947.075,580 952,575.075 952,569 L952,355 C952,348.925 947.075,344 941,344 zM855,336 C844.507,336 836,344.507 836,355 L836,569 C836,579.493 844.507,588 855,588 L941,588 C951.493,588 960,579.493 960,569 L960,355 C960,344.507 951.493,336 941,336 L855,336 zM898,557 C892.477,557 888,561.477 888,567 C888,572.523 892.477,577 898,577 C903.523,577 908,572.523 908,567 C908,561.477 903.523,557 898,557 z" fill="#333333" style="pointer-events:inherit" id="svg_2"></path>
+    <rect class="frame-content" x="106" y="72" width="712" height="712" rx="6.85356" fill="white" style="pointer-events:inherit" id="svg_3"></rect>
+    <rect class="frame-container" x="121" y="821" width="682" height="156" rx="67" fill="white" stroke="#333333" stroke-width="25" style="pointer-events:inherit" id="svg_10"></rect>
+    <g class="addsvg"></g>
+  </svg>
+</div>
