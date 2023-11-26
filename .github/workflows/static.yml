@@ -31,3 +31,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: dist/ngx-qrcode-styling
+permissions:
+  contents: write # Allow write permission to GITHUB_TOKEN to commit to deploy branch.
