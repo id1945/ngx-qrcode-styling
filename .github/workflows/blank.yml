@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - demo
+      - angular-16
 jobs:
   build:
     runs-on: ubuntu-latest
