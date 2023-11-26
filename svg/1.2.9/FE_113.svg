@@ -1,0 +1,10 @@
+<div id="FE_113" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_113_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="932" height="966" viewBox="0 0 932 966" fill="none" x="466" y="483">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g clip-path="url(#clip0_279_314)" id="svg_3">
+      <path class="frame-container" d="M-1,-27 L933,-27 L933,890.866 C709.5,992.572 250.5,989.506 -1,890.866 L-1,-27 z" fill="#333333" id="svg_4"></path>
+      <rect class="frame-content" x="134" y="60" width="661" height="661" rx="9.6319" fill="white" id="svg_5"></rect>
+    </g>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

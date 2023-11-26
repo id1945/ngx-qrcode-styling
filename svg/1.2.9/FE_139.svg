@@ -1,0 +1,14 @@
+<div id="FE_139" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_139_svg" xmlns="http://www.w3.org/2000/svg" width="810" height="971" viewBox="0 0 810 971" fill="none" x="439" y="485.5">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect x="5.5" y="5.5" width="799" height="156" rx="78" fill="white" stroke="black" stroke-width="11" style="pointer-events:inherit" id="svg_1"></rect>
+    <circle class="frame-content" cx="408" cy="574" r="388.5" fill="white" stroke="#333333" stroke-width="17" style="pointer-events:inherit" id="svg_2"></circle>
+    <ellipse class="frame-content" cx="688" cy="118" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" style="pointer-events:inherit" id="svg_11"></ellipse>
+    <ellipse class="frame-content" cx="688" cy="95" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" style="pointer-events:inherit" id="svg_12"></ellipse>
+    <ellipse class="frame-content" cx="688" cy="72" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" style="pointer-events:inherit" id="svg_13"></ellipse>
+    <ellipse class="frame-content" cx="688" cy="49" rx="53" ry="21" fill="white" stroke="#333333" stroke-width="8" style="pointer-events:inherit" id="svg_14"></ellipse>
+    <path class="frame-content" d="M635,47 L635,117 " stroke="#333333" stroke-width="8" style="pointer-events:inherit" id="svg_15"></path>
+    <path class="frame-content" d="M741,47 L741,117 " stroke="#333333" stroke-width="8" style="pointer-events:inherit" id="svg_16"></path>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

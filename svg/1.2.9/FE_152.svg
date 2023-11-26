@@ -1,0 +1,12 @@
+<div id="FE_152" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_152_svg" xmlns="http://www.w3.org/2000/svg" width="824" height="1000" viewBox="0 0 824 1000" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g clip-path="url(#clip0_237:444)">
+      <rect class="frame-container" y="2" width="824" height="500" fill="#DDDDDD" />
+      <rect class="frame-container" y="435" width="824" height="567" fill="#333333" />
+      <circle class="frame-content" cx="412" cy="435" r="336" fill="white" />
+      <path class="frame-content" d="M147.107 854.4L109.349 903L109.349 876C44.875 876 37.4366 823.739 39.2274 795C41.9352 809.499 43.192 832.8 109.349 832.8L109.349 805.8L147.107 854.4Z" stroke="white" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

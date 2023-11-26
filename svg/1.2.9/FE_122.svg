@@ -1,0 +1,13 @@
+<div id="FE_122" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_122_svg" xmlns="http://www.w3.org/2000/svg" width="798" height="976" viewBox="0 0 798 976" fill="none" x="445" y="488">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="0" width="798" height="798" rx="14" fill="#333333" style="pointer-events:inherit" id="svg_1" y="0"></rect>
+    <rect class="frame-content" x="43" y="43" width="712" height="712" rx="6" fill="white" style="pointer-events:inherit" id="svg_2"></rect>
+    <path class="frame-container" d="M798,871 C798,843.386 775.614,821 748,821 L50,821 C22.385999999999996,821 0,843.386 0,871 L0,975 C0,975.552 0.4479999999999933,976 1,976 L748,976 C775.614,976 798,953.614 798,926 L798,871 z" fill="#333333" style="pointer-events:inherit" id="svg_9"></path>
+    <path class="frame-content" d="M703.334,888.334 L696.223,888.334 L696.223,895.445 L703.334,895.445 L703.334,888.334 z" fill="white" style="pointer-events:inherit" id="svg_11"></path>
+    <path class="frame-content" d="M710.443,888.334 L717.554,888.334 L717.554,895.445 L710.443,895.445 L710.443,888.334 z" fill="white" style="pointer-events:inherit" id="svg_12"></path>
+    <path class="frame-content" d="M731.777,888.334 L724.666,888.334 L724.666,895.445 L731.777,895.445 L731.777,888.334 z" fill="white" style="pointer-events:inherit" id="svg_13"></path>
+    <path class="frame-content" d="M682,874.111 L682,931 L699.067,918.2 C700.297,917.276 701.794,916.778 703.333,916.778 L738.889,916.778 C740.775,916.778 742.584,916.029 743.917,914.695 C745.251,913.361 746,911.553 746,909.667 L746,874.111 C746,872.225 745.251,870.416 743.917,869.083 C742.584,867.749 740.775,867 738.889,867 L689.111,867 C687.225,867 685.416,867.749 684.083,869.083 C682.749,870.416 682,872.225 682,874.111 zM689.111,916.778 L689.111,874.111 L738.889,874.111 L738.889,909.667 L700.965,909.667 C699.426,909.663 697.928,910.162 696.699,911.089 L689.111,916.778 z" fill="white" style="pointer-events:inherit" id="svg_14"></path>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

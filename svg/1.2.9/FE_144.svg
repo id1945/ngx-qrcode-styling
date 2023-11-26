@@ -1,0 +1,9 @@
+<div id="FE_144" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_144_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="1" y="1" width="677" height="677" rx="60" fill="#333333" />
+    <rect class="frame-container" x="321" y="321" width="677" height="677" rx="60" fill="#333333" />
+    <rect class="frame-content" x="148.5" y="148.5" width="696" height="696" rx="69.5" fill="white" stroke="#333333" stroke-width="19" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

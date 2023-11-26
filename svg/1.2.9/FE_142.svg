@@ -1,0 +1,10 @@
+<div id="FE_142" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_142_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g clip-path="url(#clip0_279_209)">
+      <path class="frame-container" d="M488.467 57.173C493.322 47.8382 506.678 47.8382 511.533 57.173L958.638 916.751C963.139 925.405 956.859 935.75 947.104 935.75H52.8956C43.1406 935.75 36.861 925.405 41.3624 916.751L488.467 57.173Z" fill="#333333" />
+      <path class="frame-container" d="M525.718 36.3424L985.032 917.849C995.092 937.156 981.084 960.25 959.314 960.25H40.686C18.9158 960.25 4.90809 937.156 14.9679 917.849L474.282 36.3424C485.119 15.5432 514.881 15.5432 525.718 36.3424Z" stroke="black" stroke-width="12" />
+    </g>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

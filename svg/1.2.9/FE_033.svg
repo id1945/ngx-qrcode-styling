@@ -1,0 +1,36 @@
+<div id="FE_033" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_033_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 438.3 567.9" xml:space="preserve" style="shape-rendering: auto; enable-background: new 0 0 438.3 567.9">
+    <style type="text/css">
+      <![CDATA[
+      .st0 {
+        fill: #FFFFFF;
+        stroke: #000000;
+        stroke-width: 5;
+        stroke-miterlimit: 10;
+      }
+  
+      .st1 {
+        fill: #FFFFFF;
+      }
+  
+      .st2 {
+        opacity: 0.35;
+        fill: #FFFFFF;
+        enable-background: new;
+      }
+  
+      .st3 {
+        opacity: 0.15;
+        fill: #FFFFFF;
+        enable-background: new;
+      }
+      ]]>
+    </style>
+    <g class="ngx_qrcode_styling_after"></g>
+    <path class="st0" d="M398.6,467h-360V19.5C38.6,10.9,45.5,4,54.1,4h328c9.1,0,16.5,7.4,16.5,16.5V467z" />
+    <path class="frame-container" d="M426.5,311l-27.1-24.1v67l-135.9,66.8l-33.6-18.9c-7.1-4-15.7-4-22.8,0l-33.6,18.9L37.7,353.9v-67L10.6,311C3.9,317.3,0,326.2,0,335.4v216.2c0,8.9,7.3,16.3,16.3,16.3h404.5c8.9,0,16.3-7.3,16.3-16.3V335.4C437.2,326.2,433.3,317.3,426.5,311z" />
+    <path id="ShadowDarker" class="st2" d="M37.7,347.3v6.6l-0.3-0.1L0,335.4h37.7V347.3z M399.4,347.3v6.6l0.3-0.1l37.5-18.4h-37.7L399.4,347.3L399.4,347.3z" />
+    <path id="ShadowDark" class="st3" d="M399.4,335.4v-48.5l27.1,24.1c6.7,6.4,10.6,15.2,10.6,24.4l0,0H399.4z M37.6,335.4v-48.5l-27,24.1C3.9,317.3,0,326.2,0,335.4H37.6z M399.4,347.3l-135.3,66.3l-32.8-18.7c-7.9-4.5-17.6-4.5-25.7,0l-32.8,18.7L37.7,347.3v6.6l128.8,63.4l0,0l0,0l-62.1,42.3l102.7-57.8c7.1-4,15.7-4,22.8,0l102.8,57.8l-62.1-42.3l128.8-63.4L399.4,347.3L399.4,347.3z" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

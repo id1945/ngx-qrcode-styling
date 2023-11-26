@@ -1,0 +1,9 @@
+<div id="FE_103" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_103_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g class="ngx_qrcode_styling_after"></g>
+    <path class="frame-container" d="M15.9235 983.042C62.868 608.699 61.3567 394.087 15.8691 15.8409C398.192 60.2202 611.798 59.8797 982.701 15.9111C917.632 389.821 919.085 605.159 982.714 982.897C602.776 928.784 395.836 933.439 15.9235 983.042Z" stroke="#333333" stroke-width="12"/>
+    <path class="frame-container" d="M62.9231 936.043C105.251 598.214 103.888 404.189 62.8687 62.8405C407.884 102.857 601 102.553 935.702 62.9106C877.035 400.335 878.344 595.03 935.714 935.897C592.865 887.114 405.747 891.311 62.9231 936.043Z" fill="#333333" stroke="#333333" stroke-width="12"/>
+    <rect class="frame-content" x="193" y="128" width="613" height="613" fill="white"/>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

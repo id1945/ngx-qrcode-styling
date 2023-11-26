@@ -1,0 +1,18 @@
+<div id="FE_011" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_011_svg" data-bbox="0 0 100 143.63" viewBox="0 0 100 143.63" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g xmlns="http://www.w3.org/2000/svg">
+      <path class="frame-container" d="M86.17 0H13.83C6.22 0 0 5.38 0 12v121.88c0 5.36 5.08 9.75 11.29 9.75h77.42c6.21 0 11.29-4.39 11.29-9.75V12c0-6.62-6.22-12-13.83-12Z" fill="#71c062" data-color="1" />
+      <path class="frame-content" fill="#ffffff" d="M95.4 23.55v85.13a2.83 2.83 0 0 1-2.83 2.83H7.44a2.83 2.83 0 0 1-2.83-2.83V23.55a2.83 2.83 0 0 1 2.83-2.83h85.13a2.83 2.83 0 0 1 2.83 2.83z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M19.23 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M30.71 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M42.18 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M53.66 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M65.13 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M76.61 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <path class="frame-content" fill="#ffffff" d="M88.08 8.4v3.54a1.88 1.88 0 0 1-1.88 1.88h-3.54a1.88 1.88 0 0 1-1.88-1.88V8.4a1.88 1.88 0 0 1 1.88-1.88h3.54a1.88 1.88 0 0 1 1.88 1.88z" data-color="2" />
+      <text class="frame-text" />
+    </g>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

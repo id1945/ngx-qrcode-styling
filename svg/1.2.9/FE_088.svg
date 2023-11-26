@@ -1,0 +1,16 @@
+<div id="FE_088" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_088_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="328" y="164" width="672" height="672" rx="17" fill="#333333" />
+    <mask id="path-2-inside-1_288_1297" fill="white">
+      <rect y="300.748" width="400" height="140" rx="5.34642" transform="rotate(-7 0 300.748)" />
+    </mask>
+    <rect class="frame-container" y="300.748" width="400" height="140" rx="5.34642" transform="rotate(-7 0 300.748)" fill="#333333" stroke="white" stroke-width="14.7027" mask="url(#path-2-inside-1_288_1297)" />
+    <mask id="path-3-inside-2_288_1297" fill="white">
+      <rect x="36.2344" y="449" width="400" height="140" rx="8" transform="rotate(15 36.2344 449)" />
+    </mask>
+    <rect class="frame-container" x="36.2344" y="449" width="400" height="140" rx="8" transform="rotate(15 36.2344 449)" fill="#333333" stroke="white" stroke-width="22" mask="url(#path-3-inside-2_288_1297)" />
+    <rect class="frame-content" x="430" y="252" width="495" height="495" rx="3.59347" fill="white" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

@@ -1,0 +1,15 @@
+<div id="FE_112" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_112_svg" xmlns="http://www.w3.org/2000/svg" width="806" height="1000" viewBox="0 0 806 1000" fill="none" x="441" y="500">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="0" width="806" height="806" rx="40" fill="#333333" style="pointer-events:inherit" id="svg_1" y="0"></rect>
+    <circle class="frame-content" cx="403" cy="403" r="344" fill="white" style="pointer-events:inherit" id="svg_2"></circle>
+    <rect class="frame-container" x="560.172" y="136.807" width="157.976" height="28.21" rx="12.896" fill="#333333" stroke="white" stroke-width="6" style="pointer-events:inherit" id="svg_10" transform="rotate(-45 560.172 136.807)"></rect>
+    <rect class="frame-container" x="236.26600000000002" y="662.855" width="157.976" height="28.21" rx="12.896" fill="#333333" stroke="white" stroke-width="6" style="pointer-events:inherit" id="svg_11" transform="rotate(135 236.266 662.855)"></rect>
+    <rect class="frame-container" x="602.344" y="178.98" width="233.74" height="28.21" rx="12.896" fill="#333333" stroke="white" stroke-width="6" style="pointer-events:inherit" id="svg_12" transform="rotate(-45 602.344 178.98)"></rect>
+    <rect class="frame-container" x="194.08999999999997" y="620.68" width="233.74" height="28.21" rx="12.896" fill="#333333" stroke="white" stroke-width="6" style="pointer-events:inherit" id="svg_13" transform="rotate(135 194.09 620.68)"></rect>
+    <rect class="frame-container" x="644.52" y="221.156" width="157.976" height="28.21" rx="12.896" fill="#333333" stroke="white" stroke-width="6" style="pointer-events:inherit" id="svg_14" transform="rotate(-45 644.52 221.156)"></rect>
+    <rect class="frame-container" x="151.914" y="578.506" width="157.976" height="28.21" rx="12.896" fill="#333333" stroke="white" stroke-width="6" style="pointer-events:inherit" id="svg_15" transform="rotate(135 151.914 578.506)"></rect>
+    <rect class="frame-container" x="0" y="829" width="806" height="171" rx="30" fill="#333333" style="pointer-events:inherit" id="svg_16"></rect>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

@@ -1,0 +1,11 @@
+<div id="FE_096" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_096_svg" xmlns="http://www.w3.org/2000/svg" width="760" height="1000" viewBox="0 0 760 1000" fill="none" x="464" y="500">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="0" width="760" height="1000" rx="10.3842" fill="#333333" style="pointer-events:inherit" id="svg_1" y="0"></rect>
+    <rect class="frame-content" x="41.5" y="34" width="677" height="677" rx="10.3834" fill="white" style="pointer-events:inherit" id="svg_3"></rect>
+    <circle class="frame-content" cx="614" cy="871" r="92" fill="white" style="pointer-events:inherit" id="svg_10"></circle>
+    <circle class="frame-container" cx="614" cy="871" r="85" stroke="#333333" stroke-width="2" style="pointer-events:inherit" id="svg_11"></circle>
+    <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M637.581,806.387 L629.355,806.387 L629.355,808.582 C629.355,809.793 628.373,810.775 627.161,810.775 L600.839,810.775 C599.627,810.775 598.645,809.793 598.645,808.582 L598.645,806.387 L590.419,806.387 C587.088,806.387 584.387,809.088 584.387,812.419 L584.387,929.774 C584.387,933.106 587.088,935.806 590.419,935.806 L637.581,935.806 C640.912,935.806 643.613,933.106 643.613,929.774 L643.613,812.419 C643.613,809.088 640.912,806.387 637.581,806.387 zM590.419,802 C584.665,802 580,806.665 580,812.419 L580,929.774 C580,935.529 584.665,940.194 590.419,940.194 L637.581,940.194 C643.335,940.194 648,935.529 648,929.774 L648,812.419 C648,806.665 643.335,802 637.581,802 L590.419,802 zM614,923.194 C610.971,923.194 608.516,925.65 608.516,928.678 C608.516,931.707 610.971,934.162 614,934.162 C617.029,934.162 619.484,931.707 619.484,928.678 C619.484,925.65 617.029,923.194 614,923.194 z" fill="#333333" style="pointer-events:inherit" id="svg_12"></path>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

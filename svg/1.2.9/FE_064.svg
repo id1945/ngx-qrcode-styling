@@ -1,0 +1,19 @@
+<div id="FE_064" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_064_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g clip-path="url(#clip0_271:370)">
+      <mask id="path-1-inside-1_271:370" fill="white">
+        <rect x="121.137" width="756.728" height="1000" rx="19.3757" />
+      </mask>
+      <rect class="frame-container" x="121.137" width="756.728" height="1000" rx="19.3757" stroke="#333333" stroke-width="40" mask="url(#path-1-inside-1_271:370)" />
+      <rect class="frame-container" x="188" y="366" width="624" height="634" rx="15.07" fill="#333333" />
+      <rect class="frame-content" x="216" y="394" width="567.92" height="567.92" rx="12.4437" fill="white" />
+    </g>
+    <defs>
+      <clipPath id="clip0_271:370">
+        <rect width="1000" height="1000" fill="white" />
+      </clipPath>
+    </defs>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

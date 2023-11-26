@@ -1,0 +1,9 @@
+<div id="FE_056" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_056_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="87" y="131" width="833" height="138" fill="#333333" />
+    <path class="frame-container" fill-rule="evenodd" clip-rule="evenodd" d="M343 72H92H65V99V973V1000H92H915H942V973V99V72H915H656V99H915V973H92V99H343V72Z" fill="#333333" />
+    <rect class="frame-content" x="201" y="363" width="598" height="598" rx="13.1028" fill="white" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

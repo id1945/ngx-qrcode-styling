@@ -1,0 +1,13 @@
+<div id="FE_154" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_154_svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" xml:space="preserve" width="392.66669" height="499.66669" viewBox="0 0 392.66669 499.66669" sodipodi:docname="general-qr-code-frame-26.eps" x="647.666655" y="249.833345">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g id="g10" inkscape:groupmode="layer" inkscape:label="ink_ext_XXXXXX" transform="matrix(1.33333 0 0 -1.33333 0 666.667)">
+      <g id="g12" transform="translate(-111 70.5) scale(0.1 0.1)">
+        <path class="frame-content" d="M1461.18,4275.88L3705.88,4275.88C3890.41,4275.88 4040,4126.29 4040,3941.76L4040,2767.27C4040,2706.4 3990.66,2657.06 3929.79,2657.06L1237.27,2657.06C1176.4,2657.06 1127.06,2706.4 1127.06,2767.27L1127.06,3941.76C1127.06,4126.29 1276.65,4275.88 1461.18,4275.88" id="path14" fill="#2a2a2b" fill-rule="nonzero"></path>
+        <path class="frame-container" d="M3657.17,584.422L1509.68,584.422C1311.55,584.422 1150.93,745.039 1150.93,943.172L1150.93,3090.66C1150.93,3288.8 1311.55,3449.42 1509.68,3449.42L3657.17,3449.42C3855.31,3449.42 4015.93,3288.8 4015.93,3090.66L4015.93,943.172C4015.93,745.039 3855.31,584.422 3657.17,584.422" id="path16" fill="#ffffff" fill-rule="nonzero"></path>
+        <path class="frame-container" d="M3657.17,584.422L1509.68,584.422C1311.55,584.422 1150.93,745.039 1150.93,943.172L1150.93,3090.66C1150.93,3288.8 1311.55,3449.42 1509.68,3449.42L3657.17,3449.42C3855.31,3449.42 4015.93,3288.8 4015.93,3090.66L4015.93,943.172C4015.93,745.039 3855.31,584.422 3657.17,584.422z" id="path18" fill="none" stroke="#2a2a2b" stroke-width="50" stroke-linecap="round" stroke-miterlimit="10"></path>
+      </g>
+    </g>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

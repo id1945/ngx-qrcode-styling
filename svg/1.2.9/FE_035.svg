@@ -1,0 +1,22 @@
+<div id="FE_035" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_035_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 442 634.6" xml:space="preserve" style="shape-rendering: auto; enable-background: new 0 0 442 634.6">
+    <style type="text/css">
+      <![CDATA[
+      .st0 {
+        fill: #FFFFFF;
+      }
+
+      .st1 {
+        opacity: 0.35;
+        fill: #FFFFFF;
+        enable-background: new;
+      }
+      ]]>
+    </style>
+    <g class="ngx_qrcode_styling_after"></g>
+    <path class="frame-container" d="M439.9,608.2L427.2,136c-0.3-12.4-10.6-22.4-22.9-22.4h-81.7V50.8c0-5.4-2.1-10.6-5.9-14.2l-22.8-23.1C285.1,4.9,273.3,0,261,0h-81.9c-12.2,0-24.1,4.9-32.8,13.5l-22.9,22.9c-3.8,3.8-5.9,8.9-5.9,14.2v62.9H35.8c-12.4,0-22.7,9.9-22.9,22.4L0,608.2c-0.3,13,10,23.7,22.9,23.7H417C430,631.9,440.4,621.2,439.9,608.2z M280.2,113.6H159.8V42.4h120.4V113.6z" />
+    <path class="frame-content st0" d="M401.7,489c0,5.8-4.6,10.4-10.4,10.4H48.9c-5.8,0-10.4-4.6-10.4-10.4V146.4c0-5.8,4.6-10.4,10.4-10.4h342.4c5.8,0,10.4,4.6,10.4,10.4L401.7,489L401.7,489z" />
+    <path class="frame-container st1" d="M280.2,42.4V23.8c0-13.1-10.6-23.8-23.8-23.8h-73.8c-12.5,0-22.8,10.3-22.8,22.8v19.6H280.2z" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

@@ -1,0 +1,11 @@
+<div id="FE_005" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_005_svg" data-bbox="0 0 100 136.913" viewBox="0 0 100 136.98" xmlns="http://www.w3.org/2000/svg" data-type="color">
+    <g class="ngx_qrcode_styling_after"></g>
+    <g>
+      <path class="frame-container" d="M94 125H20.58a2.41 2.41 0 0 0-1.42.46l-15.33 11a2.42 2.42 0 0 1-3.83-2V6.05A6.06 6.06 0 0 1 6.05 0H94a6.06 6.06 0 0 1 6 6.05V119a6.06 6.06 0 0 1-6 6Z" fill="#f47c20" data-color="1" />
+      <path class="frame-content" fill="#ffffff" d="M95.37 7.49v85.13a2.83 2.83 0 0 1-2.83 2.83H7.41a2.83 2.83 0 0 1-2.83-2.83V7.49a2.83 2.83 0 0 1 2.83-2.83h85.13a2.83 2.83 0 0 1 2.83 2.83z" data-color="2" />
+      <text class="frame-text" />
+    </g>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

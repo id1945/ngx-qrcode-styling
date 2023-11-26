@@ -1,0 +1,8 @@
+<div id="FE_119" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_119_svg" xmlns="http://www.w3.org/2000/svg" width="828" height="1000" viewBox="0 0 828 1000" fill="none" x="430" y="500">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="0" width="828" height="1000" fill="#333333" style="pointer-events:inherit" id="svg_1" y="0"></rect>
+    <path class="frame-content" fill-rule="evenodd" clip-rule="evenodd" d="M47,30 C38.715999999999994,30 32,36.7157 32,45 L32,700.331 C32,708.615 38.715999999999994,715.331 47,715.331 L112.041,715.331 L169.889,778.585 C176.97000000000003,786.328 188.452,786.328 195.53300000000002,778.585 L253.38099999999997,715.331 L781,715.331 C789.284,715.331 796,708.615 796,700.331 L796,45 C796,36.7157 789.284,30 781,30 L47,30 z" fill="white" style="pointer-events:inherit" id="svg_2"></path>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

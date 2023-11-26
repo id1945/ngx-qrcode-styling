@@ -1,0 +1,14 @@
+<div id="FE_048" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_048_svg" xmlns="http://www.w3.org/2000/svg" width="1000" height="1002" viewBox="0 0 1000 1002" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <ellipse class="frame-container" cx="362.938" cy="705.208" rx="295.147" ry="267.429" fill="#333333" />
+    <ellipse class="frame-container" cx="362.938" cy="351.545" rx="206.86" ry="187.868" fill="#333333" />
+    <path class="frame-container" d="M526.649 9.25297C560.842 24.4418 586.071 38.3235 608.479 55.537C630.884 72.7479 650.644 93.4244 673.753 122.388C674.387 123.182 674.486 124.295 674.007 125.185L568.025 322.047C567.422 323.166 566.176 323.614 565.114 323.246C494.404 298.796 412.291 236.913 360.63 165.71C359.913 164.722 360.029 163.354 360.961 162.48L523.932 9.66085C524.624 9.01165 525.655 8.8114 526.649 9.25297Z" fill="#333333" stroke="white" stroke-width="9.2394" />
+    <mask id="path-5-inside-1_258:735" fill="white">
+      <rect x="412.729" y="480.896" width="520.272" height="520.272" rx="10.4263" />
+    </mask>
+    <rect class="frame-container" x="412.729" y="480.896" width="520.272" height="520.272" rx="10.4263" fill="#333333" stroke="white" stroke-width="33.3642" mask="url(#path-5-inside-1_258:735)" />
+    <rect class="frame-content" x="448.178" y="516.346" width="450.96" height="450.96" rx="9.0192" fill="white" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

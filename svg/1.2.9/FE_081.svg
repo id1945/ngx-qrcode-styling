@@ -1,0 +1,10 @@
+<div id="FE_081" data-width="0.87" data-left="0.06" data-top="0.06">
+    <svg id="FE_081_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g class="ngx_qrcode_styling_after"></g>
+        <rect class="frame-container" width="1000" height="1000" rx="172" fill="#333333"/>
+        <circle class="frame-content" cx="839" cy="96" r="44" fill="white"/>
+        <circle class="frame-content" cx="500" cy="472" r="354.194" stroke="white" stroke-width="23.6129"/>
+        <rect class="frame-content" x="264.09" y="236.09" width="470.912" height="470.912" rx="22.4655" fill="white"/>
+        <g class="ngx_qrcode_styling_before"></g>
+    </svg>
+</div>

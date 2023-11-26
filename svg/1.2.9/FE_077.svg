@@ -1,0 +1,23 @@
+<div id="FE_077" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_077_svg" xmlns="http://www.w3.org/2000/svg" width="1500" height="340" viewBox="0 0 1500 340" fill="none">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="208" y="5" width="869" height="331" rx="7" fill="#333333" />
+    <path class="frame-container" d="M1138.07 64L1242.01 167.945C1243.18 169.116 1243.18 171.016 1242.01 172.187L1138.07 276.132" stroke="#333333" stroke-width="29" stroke-linecap="round" />
+    <path class="frame-container" d="M1232.5 64L1336.45 167.945C1337.62 169.116 1337.62 171.016 1336.45 172.187L1232.5 276.132" stroke="#333333" stroke-width="29" stroke-linecap="round" />
+    <path class="frame-container" d="M1326.94 64L1430.88 167.945C1432.05 169.116 1432.05 171.016 1430.88 172.187L1326.94 276.132" stroke="#333333" stroke-width="29" stroke-linecap="round" />
+    <rect class="frame-content" x="413.5" y="23.5" width="159" height="293" rx="16.5" stroke="white" stroke-width="3" />
+    <path class="frame-content" d="M458 25H528V31C528 34.866 524.866 38 521 38H465C461.134 38 458 34.866 458 31V25Z" fill="white" />
+    <mask id="path-7-inside-1_237:492" fill="white">
+      <rect x="440" y="98" width="106" height="106" rx="4" />
+    </mask>
+    <rect class="frame-content" x="440" y="98" width="106" height="106" rx="4" stroke="white" stroke-width="10" stroke-linecap="round" stroke-dasharray="41 41" mask="url(#path-7-inside-1_237:492)" />
+    <rect class="frame-content" x="480" y="279" width="26" height="26" rx="13" stroke="white" stroke-width="2" />
+    <path class="frame-container" d="M1077.07 64L1173.94 160.874C1179.02 165.95 1179.02 174.182 1173.94 179.258L1077.07 276.132L980.193 179.258C975.116 174.182 975.116 165.95 980.193 160.874L1077.07 64Z" fill="#333333" />
+    <rect class="frame-content" x="56" y="18" width="303" height="303" rx="6.06" fill="white" />
+    <path class="frame-container" d="M277.191 39.2109H337.791V99.8109" stroke="#C2C2C2" stroke-width="12.12" />
+    <path class="frame-container" d="M137.811 39.2109H77.2105V99.8109" stroke="#C2C2C2" stroke-width="12.12" />
+    <path class="frame-container" d="M277.191 299.791H337.791V239.191" stroke="#C2C2C2" stroke-width="12.12" />
+    <path class="frame-container" d="M137.811 299.791H77.2105V239.191" stroke="#C2C2C2" stroke-width="12.12" />
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

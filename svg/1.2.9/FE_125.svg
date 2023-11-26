@@ -1,0 +1,9 @@
+<div id="FE_125" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_125_svg" xmlns="http://www.w3.org/2000/svg" width="814" height="814" viewBox="0 0 814 814" fill="none" x="437" y="407">
+    <g class="ngx_qrcode_styling_after"></g>
+    <circle class="frame-container" cx="407.00001525878906" cy="407" r="399.5" stroke="#333333" stroke-width="15" stroke-dasharray="20 20" style="pointer-events:inherit" id="svg_1"></circle>
+    <circle class="frame-container" cx="407.00001525878906" cy="407" r="365" fill="#333333" style="pointer-events:inherit" id="svg_2"></circle>
+    <rect class="frame-content" x="176.00001525878906" y="176" width="462" height="462" rx="4.44711" fill="white" style="pointer-events:inherit" id="svg_3"></rect>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>

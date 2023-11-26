@@ -1,0 +1,11 @@
+<div id="FE_106" data-width="0.87" data-left="0.06" data-top="0.06">
+  <svg id="FE_106_svg" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g class="ngx_qrcode_styling_after"></g>
+    <rect class="frame-container" x="-146.047" y="447.062" width="852.926" height="193" transform="rotate(-45 -146.047 447.062)" fill="#333333"/>
+    <rect class="frame-container" x="-96" y="960.242" width="1493.75" height="193" transform="rotate(-45 -96 960.242)" fill="#333333"/>
+    <rect class="frame-container" x="373.975" y="1060.27" width="899.852" height="193" transform="rotate(-45 373.975 1060.27)" fill="#333333"/>
+    <rect class="frame-content" x="85.5" y="214.5" width="701" height="701" rx="17.5" fill="white" stroke="#4A4268" stroke-width="15"/>
+    <rect class="frame-content" x="243.5" y="56.5" width="701" height="701" rx="17.5" fill="white" stroke="#4A4268" stroke-width="15"/>
+    <g class="ngx_qrcode_styling_before"></g>
+  </svg>
+</div>
