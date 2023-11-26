@@ -21,7 +21,7 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0",
-    "ngx-qrcode-styling": "1.2.8"
+    "ngx-qrcode-styling": "1.3.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.0.2",
