@@ -424,7 +424,7 @@ color   |string          |             |Color of stop in gradient range
   </tr>
   <tr>
     <td>Angular 6</td>
-    <td>1.2.9</td>
+    <td>1.3.1</td>
   </tr>
 </table>
 
