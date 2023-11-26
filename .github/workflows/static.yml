@@ -17,4 +17,4 @@ jobs:
         deploy_branch: gh-pages # The branch the action should deploy to.
         angular_dist_build_folder: dist/ngx-qrcode-styling # The folder where your project is supposed to be after running ng build by the action.
 permissions:
-  contents: write # Allow write permission to GITHUB_TOKEN to commit to deploy branch.
+  contents: write # Allow write permission to GITHUB_TOKEN to commit to deploy branch. 
